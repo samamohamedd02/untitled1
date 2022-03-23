@@ -1,0 +1,5 @@
+void main () {
+   List users =[{"name " : "weal" , "age": 22 , "phone":456789 , "password" :"weangle"},
+   {"name " : "basel" , "age": 30 , "phone":789655 , "password" :"baselqefoij"}];
+  users.forEach((user1) {
+    print(user1["name!"]);
