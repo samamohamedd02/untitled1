@@ -128,6 +128,7 @@ class _Myapp2State extends State<Myapp2> {
                     margin: const EdgeInsets.fromLTRB(0, 20, 0, 0),
                     child: const Text(
                       " Forgot your password?",
+
                       style: TextStyle(
                         color: Colors.grey,
                         fontWeight: FontWeight.bold,
